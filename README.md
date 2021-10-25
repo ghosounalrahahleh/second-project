@@ -1,6 +1,6 @@
 
 Online Quizzes Website
-https://ghosounalrahahleh.github.io/Group-second-project/
+https://ghosounalrahahleh.github.io/second-project/
 
 Wireframe link
  https://drive.google.com/file/d/1rxjgqp2ZbmVOm9DVwGlUPr9nSIACoEqP/view?usp=sharing
